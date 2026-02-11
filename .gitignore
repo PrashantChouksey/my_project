@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.env
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# System
+.DS_Store
+.idea/
+.vscode/
+
+# Project Specific
+Assignment_Neighborhood_Library_App.pdf
